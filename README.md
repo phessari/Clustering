@@ -3,6 +3,6 @@ The goal of clustering is to find a natural grouping in data such that items in 
 
 K-means is an iterative algorithm and it does  
 
-1.Cluster assignment step: assign point which is closer to cluster point   
+1. Cluster assignment step: assign point which is closer to cluster point   
 
-2.Move centroid step: move the centroid to the center of each cluster
+2. Move centroid step: move the centroid to the center of each cluster
